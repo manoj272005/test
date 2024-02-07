@@ -1,0 +1,7 @@
+class test
+{
+public static void main(string args[])
+{
+s.o.p("HI");
+}
+}
